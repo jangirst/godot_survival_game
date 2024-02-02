@@ -1,0 +1,6 @@
+res://survivors_game.tscn
+res://survivors_game.gd
+res://player.gd
+res://gun.tscn
+res://mob.gd
+res://GameOverLabel.gd
